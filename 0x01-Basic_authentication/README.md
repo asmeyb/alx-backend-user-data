@@ -1,7 +1,5 @@
 # 0x06. Basic authentication
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Guillaume, CTO at Holberton School  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:copyright: **[ALX - Holberton School](https://alx-intranet.hbtn.io/)**  
 :bookmark:
 
 ## Background Context
@@ -88,6 +86,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 12. Basic - Allow password with ":"
 * [x] 13. Require auth with stars
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+## Software Developer
+Asmamaw Yismaw Baylie  
+:octocat: [GitHub](https://github.com/asmeyb/)
